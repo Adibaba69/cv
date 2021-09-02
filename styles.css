@@ -1,0 +1,24 @@
+body{
+  background-color:lightgreen;
+}
+hr{
+
+  border-style: dotted none none; /*it means topborder is dotted leftright has no borderbottom also has no border */
+  border-color:black;
+  border-width:10px;
+
+  width: 10%;   /* it is relative(changes 10% of the window) */
+
+}
+h1{
+  color: blue;
+  font-family: sans-serif;
+  text-decoration: underline;
+
+}
+h2{
+    color: blue;
+}
+h3{
+    color: blue;
+}
